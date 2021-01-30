@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola 👋 
+
+Soy psicólogo, pero me apacioné por el desarrollo web. Actualmente estoy aprendiendo un monton. Es como haber descubierto un universo parelelo, que siempre estuvo allí y recien descubro. Hasta ahora me ha encantado.
+
+Me gustaria hacer parte de algun proyecto y poder aprender mientras aporto. Lo colaborativo siempre es mejor 😄
+
+Hace unos meses cree mi propia página web. Si gustas puedes visitarla.
+<img  src='./murocincelado.png'>
 
 <!--
 **jmilo13/jmilo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
