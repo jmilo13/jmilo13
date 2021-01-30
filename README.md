@@ -1,6 +1,6 @@
 # ¡¡Hola!!👋 
 
-Soy psicólogo, pero me apasioné por el desarrollo web. Actualmente estoy aprendiendo un montón. Es como haber descubierto un universo paralelo que siempre estuvo allí pero recién tuve la fortuna de conocer. Hasta ahora me ha encantado.
+Soy psicólogo, y he trabajado en ello desde 2016, pero hace poco me apasioné por el desarrollo web. Actualmente estoy aprendiendo mucho. Es como haber descubierto un universo paralelo que siempre estuvo allí pero recién tuve la fortuna de conocer. Hasta ahora ¡me ha encantado! 💜💜💜
 
 Me gustaría hacer parte de algún proyecto y poder aprender mientras aporto. Lo colaborativo siempre es mejor 😄
 
