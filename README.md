@@ -12,7 +12,7 @@ Hace unos meses creé mi propia página web. Si gustas puedes visitarla en [muro
 
 También hice una replica de la primera versión del sitio con HTML CSS y JS, utilizando también Bootstrap. Aqui esta el [repositorio](https://github.com/jmilo13/muro_cincelado) y puedes [visualizarlo](https://jmilo13.github.io/muro_cincelado/) gracias a GitHub-page.
 
-<img  src='./replica.png' height='50%' width='50%'>    <img  src='./repliphone.png' height='20%' width='20%'>
+<img  src='./repliphone.png' height='20%' width='20%'>    <img  src='./replica.png' height='50%' width='50%'>
 
 Como puedes ver todos mis trabajos tinen responsive desing y se adaptan perfectamente a difernetes dispositivos, de moviles a laptops 😎 
 
