@@ -6,8 +6,7 @@ Nací en Colombia y hace unos años emigre a la Ciudad Autónoma de Buenos Aires
 
 El año pasado creé mi primera página web en wordpress, ese fue el detonante. COn mis conociemientos actuales la mejoré creandola desde cero con React y Next. Si gustas puedes visitarla en [murocincelado.com](https://murocincelado.com/) y aquí esta el [repositorio](https://github.com/jmilo13/muro-cincelado)
 
-<img  src='./murocincelado.png' height='50%' width='50%'>
-<img  src='./murophone.png' height='20%' width='20%'> <img  src='./murophonemenu.png' height='20%' width='20%'>
+<img  src='./murocincelado.png' height='50%' width='50%'> <img  src='./murophone.png' height='20%' width='20%'> <img  src='./murophonemenu.png' height='20%' width='20%'>
 
 Para mi primer curso de introducción, hice una replica de la página de inicio en HTML CSS y JS, utilizando también Bootstrap. Aqui esta el [repositorio](https://github.com/jmilo13/muro_cincelado) y puedes visualizarlo [aquí](https://jmilo13.github.io/muro_cincelado/).
 
